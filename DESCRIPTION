@@ -1,0 +1,12 @@
+Package: aussiefirewx
+Title: Explore Australian Fire Weather Trends
+Version: 0.1.0
+Authors@R: person("Thi Lan Anh", "Tran", email = "ttra0196@student.monash.edu", role = c("aut","cre"))
+Description: Data and a Shiny app to explore Fire Weather Index and Monthly Severity Rating trends for south-eastern Australia.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 4.2)
+Imports: shiny, ggplot2, bslib, DT
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
