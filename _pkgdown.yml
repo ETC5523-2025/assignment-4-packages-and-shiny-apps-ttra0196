@@ -24,6 +24,10 @@ reference:
     contents:
       - launch_app
 
+  - title: "Datasets"
+    contents:
+      - se_aus_fwi
+
 articles:
   - title: "Vignettes"
     navbar: ~
