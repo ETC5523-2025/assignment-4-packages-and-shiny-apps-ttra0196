@@ -1,0 +1,29 @@
+# aussiefirewx
+
+This R package provides a small dataset and an interactive Shiny app to
+explore Fire Weather Index (FWI) and Monthly Severity Rating (MSR)
+trends for south-eastern Australia.
+
+## Installation
+
+\`\`\`r \# install.packages(“remotes”)
+remotes::install_github(“ETC5523-2025/assignment-4-packages-and-shiny-apps-ttra0196”)
+
+# Package index
+
+## User functions
+
+- [`launch_app()`](https://ETC5523-2025.github.io/assignment-4-packages-and-shiny-apps-ttra0196/reference/launch_app.md)
+  : Launch the aussiefirewx Shiny app
+
+## Datasets
+
+- [`se_aus_fwi`](https://ETC5523-2025.github.io/assignment-4-packages-and-shiny-apps-ttra0196/reference/se_aus_fwi.md)
+  : Fire weather indices for south-eastern Australia, 1979–2020
+
+# Articles
+
+### Vignettes
+
+- [UNKNOWN
+  TITLE](https://ETC5523-2025.github.io/assignment-4-packages-and-shiny-apps-ttra0196/articles/getting-started.md):
