@@ -10,3 +10,4 @@ Depends: R (>= 4.2)
 Imports: shiny, ggplot2, bslib, DT
 Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
+RoxygenNote: 7.3.3

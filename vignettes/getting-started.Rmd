@@ -1,0 +1,11 @@
+\---
+title: "Getting started with aussiefirewx"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Getting started with aussiefirewx}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+```{r, message=FALSE}
+library(aussiefirewx); library(ggplot2)
