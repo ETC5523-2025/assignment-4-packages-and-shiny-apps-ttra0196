@@ -7,3 +7,6 @@ This R package provides a small dataset and an interactive Shiny app to explore 
 ```r
 # install.packages("remotes")
 remotes::install_github("ETC5523-2025/assignment-4-packages-and-shiny-apps-ttra0196")
+```
+
+[View the pkgdown site](https://ETC5523-2025.github.io/assignment-4-packages-and-shiny-apps-ttra0196/)
