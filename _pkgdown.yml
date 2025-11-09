@@ -1,0 +1,31 @@
+template:
+  bootstrap: 5
+  bootswatch: cosmo
+
+url: https://ETC5523-2025.github.io/assignment-4-packages-and-shiny-apps-ttra0196/
+
+home:
+  title: "aussiefirewx: Explore Australian Fire Weather"
+  description: "Data + Shiny app for exploring FWI/MSR trends in south-eastern Australia."
+  sidebar:
+    structure: [links, license]
+
+navbar:
+  structure:
+    left:  [reference, articles, news]
+    right: [github]
+  components:
+    github:
+      icon: fa-github
+      href: https://github.com/ETC5523-2025/assignment-4-packages-and-shiny-apps-ttra0196
+
+reference:
+  - title: "User functions"
+    contents:
+      - launch_app
+
+articles:
+  - title: "Vignettes"
+    navbar: ~
+    contents:
+      - getting-started
